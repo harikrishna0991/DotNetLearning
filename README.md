@@ -72,10 +72,4 @@ DotNetLearning/
 - [ ] Module 03 Completed
 - [ ] Module 04 Completed
 
----
 
-**Author:** Hari Krishna  
-**Learning Goal:** Build a strong foundation in C# and .NET for enterprise application development.
-=======
-Hands-on .NET and C# learning repository covering Git workflow, .NET fundamentals, C# programming, OOP, core .NET concepts, configuration, secrets, and logging.
->>>>>>> origin/main
