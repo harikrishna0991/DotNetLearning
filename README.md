@@ -1,5 +1,5 @@
 # DotNetLearning
-<<<<<<< HEAD
+
 
 A structured learning repository for mastering C# and .NET from scratch to enterprise-level development.
 
